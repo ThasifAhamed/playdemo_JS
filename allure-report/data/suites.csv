@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3979","Login with valid details","chromium","2026-10-01","passed","2026-10-01","Verify login page","features\Demo.feature.spec.js","",""
